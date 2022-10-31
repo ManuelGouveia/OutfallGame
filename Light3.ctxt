@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Light3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Light3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Light3()
+comment3.params=value
+comment3.target=Light3(boolean)
+comment4.params=state
+comment4.target=void\ setImage(boolean)
+comment5.params=
+comment5.target=boolean\ getState()
+comment6.params=value
+comment6.target=void\ setState(boolean)
+numComments=7

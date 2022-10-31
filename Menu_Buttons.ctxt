@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Menu_Buttons
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ mouseOver()
+comment2.text=\r\n\ Regista\ se\ o\ rato\ est\u00E1\ em\ cima\ do\ but\u00E3o.\ \r\n\ Se\ n\u00E3o,\ o\ but\u00E3o\ \u00E9\ invis\u00EDvel,\ se\ sim,\ o\ but\u00E3o\ fica\ opaco.\r\n
+numComments=3
