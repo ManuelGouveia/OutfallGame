@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SelectButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=leftNumber\ rightNumber\ result\ operation\ light
+comment1.target=SelectButton(PanelText,\ PanelText,\ PanelText,\ PanelText,\ Light3)
+comment2.params=
+comment2.target=void\ interact()
+comment3.params=
+comment3.target=void\ nextExercise()
+comment4.params=leftNumber\ rightNumber\ result\ operation
+comment4.target=void\ setExercise(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=exercise
+comment5.target=void\ setExercise(Exercise)
+comment6.params=
+comment6.target=boolean\ isCorrect()
+comment7.params=leftNumber\ rightNumber\ result
+comment7.target=void\ addExercise(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ complete()
+numComments=9

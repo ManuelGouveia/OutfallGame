@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=N\u00EDveis
+comment0.text=\r\n\ N\u00EDvel\ 0.\r\n\ \r\n\ @Manuel\ Figueira\ Pestana\ de\ Gouveia\ \r\n\ @1\ \r\n
+comment1.params=
+comment1.target=N\u00EDveis()
+comment2.params=light1b\ light2b\ light3b\ hp1\ hp2
+comment2.target=N\u00EDveis(boolean,\ boolean,\ boolean,\ int,\ int)
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment4.params=
+comment4.target=boolean\ getLight1b()
+comment5.params=
+comment5.target=boolean\ getLight2b()
+comment6.params=
+comment6.target=boolean\ getLight3b()
+comment7.params=
+comment7.target=int\ getHP1()
+comment8.params=
+comment8.target=int\ getHP2()
+numComments=9

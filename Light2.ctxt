@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Light2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Light2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Light2()
+comment10.params=value
+comment10.target=void\ setState(boolean)
+comment2.params=value
+comment2.target=Light2(boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ setCorrectOrder()
+comment5.params=
+comment5.target=int\ getCounter()
+comment6.params=
+comment6.target=java.util.ArrayList\ getCorrectOrderPieces()
+comment7.params=piece
+comment7.target=void\ activatePiece(PuzzlePiece)
+comment8.params=
+comment8.target=boolean\ getState()
+comment9.params=state
+comment9.target=void\ setImage(boolean)
+numComments=11

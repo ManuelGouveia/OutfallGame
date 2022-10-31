@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HazmatP2
+comment1.params=
+comment1.target=void\ act()
+comment2.params=hp
+comment2.target=HazmatP2(HP)
+comment2.text=\r\n\ Construtor\ do\ Player\ 1\r\n\ carrega\ os\ HP\ da\ run\ atual\r\n\ Enche\ os\ lugares\ do\ array\ com\ diferentes\ imagens\ do\ actor\ em\ movimento\r\n
+comment3.params=
+comment3.target=void\ initializeImages()
+comment4.params=
+comment4.target=void\ moveCharacterP2()
+comment4.text=\r\n\ Detecta\ a\ tecla(\u2191,\u2190,\u2193,\u2192)\ pressionada\ e\ detecta\ o\ boolean\ que\ permite\ ou\ bloqueia\ o\ movimento\ para\ a\ respetiva\ dire\u00E7\u00E3o.\r\n
+numComments=5
